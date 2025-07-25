@@ -2,10 +2,10 @@
 *~
 __pycache__
 .DS_Store
-*migrations/
-*.sqlite3
+# *migrations/
+# *.sqlite3
 debug-error.log
-*media/
+# *media/
 # *static/
 nohup.out
 env
